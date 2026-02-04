@@ -780,7 +780,7 @@ metricas:
 Endereço: Avenida Elmar Arantes Cabral, Vice Presidente José de Alencar, Quadra 02 - Lote 03 - Parque Industrial, Aparecida de Goiânia - GO, 74993-535
 Site: https://reforfibra.com
 Instagram: https://www.instagram.com/reforfibra/
-Diferenciais: 
+Diferenciais: A
 Tempo de mercado: 20 Anos
 
 <Informacoes da empresa>
